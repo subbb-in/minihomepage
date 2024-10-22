@@ -4,3 +4,6 @@
 # push 연습
 # pull 연습
 # remote에서 받아오기 연습
+
+## 스타일 구성
+- style.md 파일 추가
